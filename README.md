@@ -33,3 +33,7 @@ a chave para um tratamento eficaz e antecipado para cada paciente.
 Baseado no desempenho dos funcionários um time de RH precisa prever qual funcionário será promovido
 para adequar as propostas e plano de carreira desses funcionários e também trazer uma estimativa do custo
 dessas promoções.
+
+## [Predição de Churn em um Banco](churn-classification-at-a-bank.ipynb)
+O Projeto tem o objetivo de ajudar um banco a responder questões de negócio relacionadas ao Churn de clientes
+E prever qual Será a próxima pessoa a deixar os serviços desse banco.
